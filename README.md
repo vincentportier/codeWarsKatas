@@ -2,7 +2,11 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 5
+### Total: 6
+
+### 4 Kyu:
+
+- A simple Tic-tac-toe class
 
 ### 5 Kyu:
 
