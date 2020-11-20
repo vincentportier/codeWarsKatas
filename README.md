@@ -2,7 +2,7 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 6
+### Total: 9
 
 ### 4 Kyu:
 
@@ -15,3 +15,9 @@ A place to store my solutions to Code Wars Katas
 - Pirate island conquer part 2
 - Pirate island conquer part 1
 - Snakes and Ladders
+
+### 6 kyu:
+
+- Stop gninnipS My sdroW!
+- Unique in order
+- Create phone number
