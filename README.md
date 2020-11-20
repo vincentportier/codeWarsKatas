@@ -2,12 +2,15 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 20
+### Total: 23
 
 ### 4 Kyu:
 
 - A simple Tic-tac-toe class
 - Human readable duration format
+- Catching car mileage numbers
+- Connect four
+- Ranking Poker hands
 
 ### 5 Kyu:
 
