@@ -2,7 +2,7 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 23
+### Total: 25
 
 ### 4 Kyu:
 
@@ -14,6 +14,7 @@ A place to store my solutions to Code Wars Katas
 
 ### 5 Kyu:
 
+- Snakes on a plane #2 hard
 - RGB to Hex conversion
 - Pirate island conquer part 3
 - Pirate island conquer part 2
@@ -27,6 +28,7 @@ A place to store my solutions to Code Wars Katas
 
 ### 6 kyu:
 
+- Snakes on a plane #1 easy
 - Stop gninnipS My sdroW!
 - Unique in order
 - Create phone number
