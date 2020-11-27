@@ -2,7 +2,7 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 27
+### Total: 28
 
 ### 4 Kyu:
 
@@ -25,6 +25,7 @@ A place to store my solutions to Code Wars Katas
 - ROT 13
 - The Hashtag generator
 - Pete the baker
+- Play with two strings
 
 ### 6 kyu:
 
