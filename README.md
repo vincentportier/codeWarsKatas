@@ -2,7 +2,7 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 28
+### Total: 29
 
 ### 4 Kyu:
 
@@ -26,6 +26,7 @@ A place to store my solutions to Code Wars Katas
 - The Hashtag generator
 - Pete the baker
 - Play with two strings
+- Count "9"s from 1 to n
 
 ### 6 kyu:
 
