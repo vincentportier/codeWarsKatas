@@ -2,7 +2,7 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 29
+### Total: 30
 
 ### 4 Kyu:
 
@@ -41,3 +41,4 @@ A place to store my solutions to Code Wars Katas
 - Detect pangram
 - Simple fun #160: cut the ropes
 - Backspaces in strings
+- Casino chips
