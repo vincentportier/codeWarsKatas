@@ -2,7 +2,7 @@
 
 A place to store my solutions to Code Wars Katas
 
-### Total: 30
+### Total: 31
 
 ### 4 Kyu:
 
@@ -42,3 +42,4 @@ A place to store my solutions to Code Wars Katas
 - Simple fun #160: cut the ropes
 - Backspaces in strings
 - Casino chips
+- Simple Simple Simple String Expansion
